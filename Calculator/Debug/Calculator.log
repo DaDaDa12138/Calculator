@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  Calculator.cpp
+  正在生成代码...
+  正在编译...
+  CalculatorDlg.cpp
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(594): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(618): warning C4244: “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(626): warning C4244: “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(717): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(788): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(788): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : 参见“_itoa”的声明
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(798): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(798): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : 参见“_itoa”的声明
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(808): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(808): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : 参见“_itoa”的声明
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(818): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(818): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(451) : 参见“_itoa”的声明
+  正在生成代码...
+c:\users\nick\documents\visual studio 2010\projects\calculator\calculator\calculatordlg.cpp(609): warning C4715: “CCalculatorDlg::FactorialCalcluate”: 不是所有的控件路径都返回值
+  Calculator.vcxproj -> C:\Users\Nick\Documents\Visual Studio 2010\Projects\Calculator\Debug\Calculator.exe
